@@ -1,0 +1,8 @@
+
+
+
+20. Driver test for sign
+21. fix freq issue
+22. Support driver insall from installation package
+23. app crash
+24. no audio from NDI lib
