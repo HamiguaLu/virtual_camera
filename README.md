@@ -20,12 +20,11 @@ https://github.com/microsoft/UDE/tree/master/UDEMbimClientSample
 
 
 下面介绍下实现虚拟UVC摄像头需要关注的几个技术点
-(未完待续)
+
 
 **1. 设备描述符**
 
 具体可以参考UVC文档的3.1节
-![image.png](/img/bVbHiIV)
 基本上我们只需要关心device descriptor和configuration descriptor 
 下面是Logitech Webcam C170 的描述符信息供参考
 `
