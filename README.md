@@ -1,3 +1,4 @@
+# Win10下基于WDF实现虚拟USB摄像头
 **背景**
 如果只是想实现简单的摄像头功能，其实没必要虚拟USB，可以考虑DirectShow 、AVstream等方案
 项目要求将网络NDI摄像头传输的音视频数据传给zoom(zoom.us)来使用，同时要求通过zoom来控制摄像头（PTZ），据了解zoom只能控制UVC（USB video camera）摄像头，所以只能选择虚拟USB摄像头
